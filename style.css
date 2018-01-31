@@ -21,7 +21,7 @@ a{
 
 body{
   background-color: black;
-  font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
+  font-family: "Courier New"; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
 
 }
 /* you can put your code all in one line like above */
@@ -69,14 +69,14 @@ body{
 	clear: both;
 }
 .button{
-  background-color: #4CAF50; /* Green */
+  background-color: grey;
   border: none;
   color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-family: "Courier New"; font-size: 36px; line-height: 1.2em; width: 100%; margin: 0; 
 }
 #footer{
 	border-bottom: 1px #ccc solid;
