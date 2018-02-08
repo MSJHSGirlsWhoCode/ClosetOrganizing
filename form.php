@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en-US">
+<!--<!DOCTYPE html>
+<html lang="en-US">-->
 	<head>
 		<title> What's Your Perfect Vacation City? </title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -298,4 +298,4 @@
     </form>
 		<h6><a href="https://atdpsites.berkeley.edu/validate/"><small>validate</small></a></h6>
 	</body>
-</html>
+<!--</html>-->
