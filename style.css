@@ -39,8 +39,9 @@ body{
 /* but try and be as concise as possible */
 #home{
   height: auto;
-  width: auto;
+  width: 100%;
   align-content: center;
+
 }
 #nav{
 	width: 60%;
