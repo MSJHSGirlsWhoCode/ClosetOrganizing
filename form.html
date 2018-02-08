@@ -4,7 +4,7 @@ require_once "header.php";
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
-		<title> What's Your Perfect Vacation City? </title>
+		<title> What's Should You Wear? </title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 		<link rel="stylesheet" type="text/css" href="form.css">
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
@@ -13,14 +13,23 @@ require_once "header.php";
 	<body>
     <br />
     <br />
-    <img src="atdplogo.png" alt="ATDP CORP LOGO" id="logo"/>
+    <div id="page">
+      <div id="logo"><h1>Closet Organizer</h1>
+      </div>
+      <div id="nav">
+        <ul>
+          <li><a href="closetOrganizer.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
     <?php
     printHeader();
      ?>
      <br />
      <b>
-       Find out what city you should go to next! Choose one answer for each question
-     </b><br/><b> and then fill out some personal information! Happy Travel!
+       Find out what you should wear! Choose one answer for each question
+     </b><br/><b> and then fill out some personal information! 
     </b>
     <br />
      <form action="formanswer.php" method="post">
