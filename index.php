@@ -1,5 +1,8 @@
-<!--<!DOCTYPE html>
-<html lang="en-US">-->
+<?php
+require_once "header.php";
+ ?>
+<!DOCTYPE html>
+<html lang="en-US">
 	<head>
 		<title> What's Your Perfect Vacation City? </title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
