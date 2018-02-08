@@ -1,0 +1,35 @@
+body{
+  text-align: left;
+  font-weight: bold;
+  background-color: #005580;
+  border: 1px solid black;
+  padding-left: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 2000px;
+}
+#logo{
+  width: 500px;
+  height: 200px;
+}
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .ten{
+  color: #293d3d;
+}
+.check{
+  color: #005580;
+}
+input{
+  border:1px solid black;
+  border-radius: 5px;
+}
+input.name, input.address{
+  display: inline;
+  text-transform: uppercase;
+}
+#middle, .height, #state{
+  width:3%;
+}
+#year, #weight, #zip{
+  width:5%;
+}
