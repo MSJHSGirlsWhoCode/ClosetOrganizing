@@ -1,14 +1,9 @@
 body{
   text-align: left;
   font-weight: bold;
-  border: 1px solid black;
-  padding-left: 150px;
-  margin-left: auto;
-  margin-right: auto;
   height: 2000px;
   background-color: black;
   font-family: "Courier New"; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
-
 }
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 .cssmenu,
@@ -106,11 +101,6 @@ body{
 .cssmenu > ul > li:hover > a:after,
 .cssmenu > ul > li > a:hover:after {
   background: #47c9af;
-}
-
-#logo{
-  width: 500px;
-  height: 200px;
 }
 .one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .ten{
   color: #293d3d;
