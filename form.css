@@ -1,6 +1,7 @@
 body{
   font-family: "Courier New"; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
-  padding-left: 50px;
+  margin: 20px;
+
 }
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 .cssmenu,
