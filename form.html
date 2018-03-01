@@ -33,15 +33,19 @@ require_once "header.php";
      <form action="formanswer.php" method="post">
       <p class="align" id="one"> 1. What color do you believe suits you best? <!-- one -->
         <br />
-        <input type="radio" name="one" value="Check" class="check" checked />
-        <label></label>
-        <br />
-        <input type="radio" name="one" value="Introvert" />
-        <label> Introvert </label>
-        <br />
-        <input type="radio" name="one" value="Extrovert"  />
-        <label> Extrovert </label>
-        <br />
+        <select name="color">
+          <option value="blank">--</option>
+          <option value="white">White</option>
+          <option value="black">Black</option>
+          <option value="grey">Grey</option>
+          <option value="red">Red</option>
+          <option value="orange">Orange</option>
+          <option value="yellow">Yellow</option>
+          <option value="green">Green</option>
+          <option value="blue">Blue</option>
+          <option value="violet">Violet</option>
+          <option value="other">Other</option>
+        </select>
       </p>
       <p class="align" id="two"> 2. What's you favorite type of top? <!-- two -->
         <br />
