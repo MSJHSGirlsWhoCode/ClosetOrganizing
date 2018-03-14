@@ -31,7 +31,9 @@ body{
 #page{
   margin: 20px;
 }
-
+#groupphoto{
+  text-align: center;
+}
 /* or on different lines like below */
 #logo{
 	width: 35%;
